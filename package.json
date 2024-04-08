@@ -1,0 +1,24 @@
+{
+  "name": "sam_hopkins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx eleventy --serve",
+    "build": "npx eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SudoDoNotBeEvil/Sam_Hopkins.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SudoDoNotBeEvil/Sam_Hopkins/issues"
+  },
+  "homepage": "https://github.com/SudoDoNotBeEvil/Sam_Hopkins#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}
